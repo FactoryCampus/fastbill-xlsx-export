@@ -1,0 +1,17 @@
+{
+  "name": "fastbill-export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "fastbill-api": "^0.1.2",
+    "moment": "^2.18.1",
+    "xlsx": "^0.9.13"
+  }
+}
